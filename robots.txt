@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.vtdqvyx.cn/sitemap.xml
